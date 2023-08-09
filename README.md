@@ -26,8 +26,8 @@ STM32CubeMX を使って生成されています。
 回路図は PDF ファイルを参照してください。
 
 ## Article
-実装の詳細は「トランジスタ技術」2023/9 に記事を掲載しています。
+実装の詳細は「トランジスタ技術」2023/9 に記事を掲載していますので、ご覧ください。
 
 ## Author
 * Y. Tayama (PN)
-* Contact: rev_c1815@yahoo.co.jp
+* Contact: upd780c@gmail.com

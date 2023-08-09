@@ -28,5 +28,6 @@ See pdf file.
 For more details, ee transistor gijutsu Sep. 2023.
 
 ## Author
-* Eleken
-* https://eleken.y-lab.org
+* Eleken (PN)
+* upd780c@gmail.com
+
