@@ -1,5 +1,5 @@
 # STM32 USB-PD Power
-A simple USB Type-C/USB-PD sink device using STM32G071KBT8N.
+A simple USB Type-C/USB-PD sink device using STM32G071KBT6N.
 
 ![Circuit Board](photo3.jpg "Circuit Board")
 - Switch: SW5(Lock), SW4(PDO/Pout) SW3(-) SW2(+) SW1(Power) from left to right
