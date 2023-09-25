@@ -1,5 +1,5 @@
 # STM32 USB-PD Power
-STM32G071KBT8N を使ったシンプルな USB Type-C/USB-PD シンクデバイス
+STM32G071KBT6N を使ったシンプルな USB Type-C/USB-PD シンクデバイス
 
 ![Circuit Board](photo3.jpg "Circuit Board")
 - スイッチ(上記写真で左から) SW5(Lock), SW4(PDO/Pout) SW3(-) SW2(+) SW1(Power)
